@@ -1,0 +1,130 @@
+body {
+	background-color: #000000;
+	margin: 10px;
+}
+
+body, td, th {
+	color: #999999;
+	font-family: 'Inconsolata', monospace;
+	font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	color: #00ff00;
+}
+
+.gainer {
+	color: #2cae00;
+}
+
+.loser {
+	color: #f11b1b;
+}
+
+.unchanged {
+	color: #dabc47;
+}
+
+.summary {
+	color: #58acfa;
+}
+
+.volume {
+	color: #fa58ac;
+}
+
+#rank_table_1 .google-visualization-table-table {
+	background: none;
+}
+
+.nknb-hr {
+	background: none;
+}
+
+.nknb-hr th {
+	color: #ffffff;
+}
+
+.nknb-tr {
+	background: none;
+}
+
+.nknb-tr-hover {
+	background: none;
+}
+
+.change {
+	font-size: 12px;
+}
+
+a:link, a:visited {
+	color: #6666ff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+code {
+	#aaaaaa;
+}
+
+hr {
+	border: solid 1px #cccccc;
+}
+
+.copy {
+	text-align: right;
+	font-size: 12px;
+}
+
+.m {
+	text-align: center;
+	margin: 45px auto;
+}
+
+.m1 {
+	font-size: 28px;
+}
+
+.m2 {
+	font-size: 40px;
+	color: #cccccc;
+}
+
+@media (min-width: 400px){
+
+	.m1 {
+		font-size: 34px;
+	}
+
+	.m2 {
+		font-size: 48px;
+	}
+
+	body {
+		margin: 20px;
+	}
+
+}
+@media (min-width: 768px){
+
+	.m1 {
+		font-size: 44px;
+	}
+
+	.m2 {
+		font-size: 60px;
+	}
+
+	body {
+		margin: 30px;
+	}
+
+}
+
+.hspace {
+	visibility: hidden;
+}

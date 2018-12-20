@@ -1,0 +1,174 @@
+{
+	"data": {
+		"seasons": {
+			"s4": {
+				"name": "Season 4",
+				"period": "",
+				"conducted": "Aaron",
+				"votes": 14
+			},
+			"s3": {
+				"name": "Season 3",
+				"period": "January 2 - 7, 2018",
+				"conducted": "Aaron",
+				"votes": 15
+			},
+			"s2": {
+				"name": "Season 2",
+				"period": "June 28 - July 10, 2017",
+				"conducted": "Kolatat",
+				"votes": 13
+			}
+			,
+			"s1": {
+				"name": "Season 1",
+				"period": "January, 2017",
+				"conducted": "Kolatat",
+				"votes": 13
+			}
+		},
+		"rankings": [
+			{
+				"name": "Pete",
+				"scores": {
+					"s3": 214,
+					"s2": 191,
+					"s1": 171,
+					"s4": 218
+				}
+			},
+			{
+				"name": "Peter",
+				"scores": {
+					"s3": 201,
+					"s2": 177,
+					"s1": 160,
+					"s4": 169
+				}
+			},
+			{
+				"name": "Pom",
+				"scores": {
+					"s3": 189,
+					"s2": 167,
+					"s1": 175,
+					"s4": 184
+				}
+			},
+			{
+				"name": "Bink",
+				"scores": {
+					"s3": 166,
+					"s2": 126,
+					"s1": 124,
+					"s4": 159
+				}
+			},
+			{
+				"name": "Forge",
+				"scores": {
+					"s3": 138,
+					"s2": 123,
+					"s1": 143,
+					"s4": 133
+				}
+			},
+			{
+				"name": "Win T.",
+				"scores": {
+					"s3": 136,
+					"s2": 120,
+					"s1": 138,
+					"s4": 118
+				}
+			},
+			{
+				"name": "Poome",
+				"scores": {
+					"s3": 134,
+					"s2": 76,
+					"s1": 79,
+					"s4": 87
+				}
+			},
+			{
+				"name": "Jeff",
+				"scores": {
+					"s3": 124,
+					"s2": 92,
+					"s1": 90,
+					"s4": 107
+				}
+			},
+			{
+				"name": "Win B.",
+				"scores": {
+					"s3": 111,
+					"s2": 110,
+					"s1": 79,
+					"s4": 105
+				}
+			},
+			{
+				"name": "Eugene",
+				"scores": {
+					"s3": 102,
+					"s2": 89,
+					"s1": 90,
+					"s4": 117
+				}
+			},
+			{
+				"name": "Wacharit",
+				"scores": {
+					"s3": 72,
+					"s2": 69,
+					"s1": 109,
+					"s4": 103
+				}
+			},
+			{
+				"name": "Kolatat",
+				"scores": {
+					"s3": 68,
+					"s2": 65,
+					"s1": 82,
+					"s4": 135
+				}
+			},
+			{
+				"name": "Aaron",
+				"scores": {
+					"s3": 61,
+					"s2": 56,
+					"s1": 24,
+					"s4": 70
+				}
+			},
+			{
+				"name": "Manasith",
+				"scores": {
+					"s3": 47,
+					"s2": 56,
+					"s1": 52,
+					"s4": 103
+				}
+			},
+			{
+				"name": "Mac",
+				"scores": {
+					"s3": 36,
+					"s2": 43,
+					"s1": 44,
+					"s4": 49
+				}
+			},
+			{
+				"name": "Boon",
+				"scores": {
+					"s4": 47
+				}
+			}
+		]
+	}
+}
