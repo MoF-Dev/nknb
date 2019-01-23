@@ -11,14 +11,14 @@ function loaded(){
 
 function startCountdown(){
 	setTimeout(startCountdown, 1000);
-	const target = new Date("2018-12-31T02:00:00Z").getTime(); // 9AM thailand time
+	const target = new Date("2019-07-06T02:00:00Z").getTime(); // 9AM thailand time
 	const now = new Date().getTime();
 	const diff = (target-now)/1000;
 	const days = Math.floor(diff/60/60/24);
 	const hours = Math.floor(diff/60/60)%24;
 	const mins = Math.floor(diff/60)%60;
 	const secs = Math.floor(diff)%60;
-	document.getElementById("countdown1").innerHTML="starting in " + days + " days " + hours + " hours " + mins + " minutes and "+secs+" seconds";
+	document.getElementById("countdown1").innerHTML="" + days + " days " + hours + " hours " + mins + " minutes and "+secs+" seconds";
 	document.getElementById("countdown2").innerHTML=days + "D " + hours + "H " + mins + "M "+secs+"S";
 }
 
